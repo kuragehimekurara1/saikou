@@ -1,0 +1,313 @@
+<resources>
+
+    <string name="repo">saikou-app/saikou</string>
+
+    <string name="app_name">最高</string>
+    <string name="slogan">ベストアニメ &amp;Android向けマンガアプリ。</string>
+
+    <string name="login">ログイン</string>
+    <string name="logout">ログアウト</string>
+
+    <string name="discord">https://discord.gg/5TXAWTU5qr</string>
+    <string name="telegram">https://telegram.me/saikou_app</string>
+    <string name="github">https://github.com/saikou-app/saikou</string>
+
+    <string name="home">ホーム</string>
+    <string name="anime">アニメ</string>
+    <string name="browse_anime">アニメを閲覧する</string>
+    <string name="manga">マンガ</string>
+    <string name="browse_manga">マンガを閲覧する</string>
+    <string name="info">情報</string>
+    <string name="watch">見る</string>
+    <string name="read">読む</string>
+
+    <string name="anime_list">アニメリスト</string>
+    <string name="manga_list">マンガリスト</string>
+
+    <string name="sad">X(</string>
+    <string name="oh">:o</string>
+    <string name="colon">\u0008:\u0008</string>
+
+    <string name="no_internet">インターネット接続がありません</string>
+    <string name="refresh">リフレッシュ</string>
+
+    <string name="search">検索</string>
+    <string name="search_results">検索結果</string>
+    <string name="sort_by">並び替え</string>
+    <string name="genre">ジャンル</string>
+    <string name="top_score">トップスコア</string>
+    <string name="updated">最新のアップデート</string>
+    <string name="trending_anime">話題のアニメ</string>
+    <string name="popular_anime">人気のアニメ</string>
+    <string name="trending_manga">話題のマンガ</string>
+    <string name="trending_novel">話題の小説</string>
+    <string name="popular_manga">人気のマンガ</string>
+
+    <string name="username">ユーザー名</string>
+    <string name="chapters_read">読んだチャプター\u0008</string>
+    <string name="episodes_watched">視聴したエピソード\u0008</string>
+    <string name="continue_reading">読み続ける</string>
+    <string name="continue_watching">見続ける</string>
+    <string name="recommended">おすすめ</string>
+
+    <string name="get_recommendations">アニメやマンガを見たり読んだりしておすすめを得る</string>
+    <string name="empty">新しい？</string>
+    <string name="action_settings">設定</string>
+
+    <string name="add">リストに追加する</string>
+    <string name="list_editor">リストエディタ</string>
+    <string name="add_fav">お気に入りに追加</string>
+    <string name="notifications">通知</string>
+    <string name="status">ステータス</string>
+    <string-array name="status">
+        <item>計画中</item>
+        <item>現在</item>
+        <item>完了</item>
+        <item>繰り返す</item>
+        <item>一時停止</item>
+        <item>ドロップ</item>
+    </string-array>
+    <string name="progress">進捗</string>
+    <string name="score">スコア</string>
+    <string name="score_suffix">\u0008/ 10</string>
+    <string name="started_at">で開始</string>
+    <string name="completed_at">で完了</string>
+    <string name="save">保存</string>
+    <string name="delete">消去</string>
+
+    <string name="name">名前</string>
+    <string name="name_romaji">ローマ字での名前</string>
+    <string name="mean_score">平均スコア</string>
+    <string name="format">フォーマット</string>
+    <string name="status_title">状態</string>
+    <string name="total_eps">総エピソード</string>
+    <string name="total_chaps">総チャプター</string>
+    <string name="ep_duration">平均期間</string>
+    <string name="min">\u0008分</string>
+    <string name="season">シーズン</string>
+    <string name="start_date">開始日</string>
+    <string name="end_date">終了日</string>
+    <string name="source">ソース</string>
+    <string name="main_studio">スタジオ</string>
+    <string name="genres">ジャンル</string>
+    <string name="description">あらすじ</string>
+    <string name="characters">キャラクター</string>
+    <string name="relations">関係</string>
+
+    <string name="roles">役割</string>
+    <string name="details">詳細</string>
+
+    <string name="play_yt">YouTubeで再生</string>
+    <string name="eps">エピソード</string>
+    <string name="ep">エピソード</string>
+    <string name="chaps">章</string>
+    <string name="chap">章</string>
+    <string name="wrong"><u>タイトルが間違っていますか?</u></string>
+    <string name="source_not_found">
+        何も見つかりませんでした X( \n
+         別のソースを試してください。
+    </string>
+    <string name="not_supported">%1$sはまだサポートされていません!</string>
+    <string name="server_selector">サーバーを選択</string>
+    <string name="auto_select_server">サーバーの自動選択</string>
+    <string name="make_default">デフォルトにする</string>
+    <string name="filler">フィラー</string>
+    <string name="adult">アダルト</string>
+    <string name="list_only">リストのみ</string>
+    <string name="tag">タグ</string>
+    <string name="tags">タグ</string>
+    <string name="synonyms">同義語</string>
+    <string name="trailer">トレーラー</string>
+    <string name="opening">オープニング</string>
+    <string name="ending">エンディング</string>
+    <string name="prequel">前編</string>
+    <string name="sequel">続編</string>
+
+    <string name="anilist_settings">アニリストの設定</string>
+    <string name="downloads">ダウンロード</string>
+    <string name="settings">設定</string>
+    <string name="player_settings">プレイヤーの設定</string>
+    <string name="recentlyListOnly">最近更新されたマイショーのみを表示する</string>
+    <string name="downloadInSd">SDカードにダウンロード</string>
+    <string name="noSdFound">SDカードが見つかりませんでした。</string>
+    <string name="reader_settings">リーダーの設定</string>
+    <string name="default_source">デフォルトのソース</string>
+    <string name="show_yt">YouTubeリンクを表示</string>
+    <string name="default_ep_view">デフォルトのエピソードレイアウト</string>
+    <string name="default_chp_view">デフォルトのチャプターレイアウト</string>
+    <string name="ui">ユーザーインターフェース</string>
+    <string name="common">一般</string>
+    <string name="theme">テーマ</string>
+    <string name="ui_settings">UIの設定</string>
+    <string name="about">詳細</string>
+    <string name="desc">\u0008\u0008\u0008 Saikouは、シンプルでありながら最先端のエレガンスに基づいて作られています。 これはアニリスト専用のクライアントで、アニメやアニメのストリーミング ダウンロードも可能です。 マンガ。\nSaikouは文字通り、日本語で「最高」を意味します。 そうですね、これは Android のアニメやマンガ向けの最高のオープンソース アプリだと言いたいのですが、どう思いますか?</string>
+    <string name="devs">開発者</string>
+    <string name="disclaimer">免責事項</string>
+    <string name="full_disclaimer">
+        - Saikouは、さまざまな Web サイトからのリンクのみをスクレイピングし、ユーザーがアニメやマンガを見つけやすくします。
+        \n\n - Saikouまたはその開発者/スタッフは、Saikou内にあるコンテンツをホストしていません。アプリで見つかったすべての画像とアニメ/マンガ情報は、さまざまなパブリック API (AniList、MyAnimeList、Kitsu) から取得されます。
+        \n\n - さらに、Saikouで見つかったすべてのアニメ/マンガ リンクは、さまざまなサード パーティのアニメ ホスティング Web サイトから取得されています。
+        \n\n - Saikouまたはその所有者は、アプリの内外で見つかったコンテンツの誤用について責任を負わず、アプリ内で見つかったコンテンツの配布についても責任を負いません。
+        \n\n - Saikouを使用することにより、アプリの開発者はアプリ内のいかなるコンテンツについても責任を負わないことに同意したものとみなされます。それでも、正当なソースからのものである場合とそうでない場合があります。
+        \n\n - インターネット侵害の問題が関係している場合は、ソース Web サイトに連絡してください。開発者は法的責任を負いません。
+    </string>
+    <string name="version_current">バージョン %1$s</string>
+    <string-array name="tips">
+        <item>エピソード/チャプターを長押しして、既読としてマークすることができます。</item>
+        <item>ショーを長押しすると、リスト エディターを直接開くことができます。</item>
+        <item>アプリに隠されたイースターエッグはほとんどありません。</item>
+        <item>インターネットは最悪? 検索に時間がかかりすぎていませんか? プログレスバーをクリックしてスパムを試す</item>
+        <item>チャレンジ: 人気アニメの一番下まで行く&amp;マンガ</item>
+        <item>番組のタイトルを長押ししてみてください。</item>
+        <item>くそー、どうして時間を無駄にするの?</item>
+        <item>誰かがこのアニメーションを気に入っているようです。</item>
+        <item>このメッセージをロングクリックしてコピーできます。</item>
+        <item>最高!</item>
+        <item>OMGルックユー!  イースターエッグを見つけた!?!?</item>
+        <item>他に誰がこのアニメーションを気に入っているか知っていますか?</item>
+        <item>私のお母さん！</item>
+        <item>9anime 泣いてる</item>
+        <item>MALサポート? ああ。</item>
+        <item>小説？ NO velsのようなものです。</item>
+    </string-array>
+
+    <string name="video">ビデオ</string>
+    <string name="video_info">ビデオ情報を表示</string>
+    <string name="source_info">ソース名を表示</string>
+    <string name="video_info_info"><b>\"マルチクオリティ\"</b> サーバーに役立つ、現在再生中のビデオの解像度を示します。</string>
+    <string name="default_quality">自動品質選択</string>
+    <string name="height">高さ</string>
+    <string name="width">幅</string>
+    <string name="default_quality_info">デフォルトで提供される最も近い品質を自動的に使用します。\"Multi Quality\" サーバーにのみ適用されます。 ビデオの再生時に自動変更します。</string>
+    <string name="default_playback_speed">デフォルトの再生速度 - %1$s</string>
+    <string name="cursed_speeds">呪われた速度</string>
+    <string name="resize_mode_button">デフォルトのサイズ変更モード</string>
+    <string name="subtitles">字幕</string>
+    <string name="subtitle_toggle">字幕</string>
+    <string name="subtitle_toggle_kamyroll">Hard-Subbed Kamyroll でこれを有効にするには、アプリを再起動してください。 (または、Soft-Sub を使用し、サブタイトルとして[なし]を選択します)</string>
+    <string name="kamyroll_subtitle_type_select">カミロール字幕タイプ</string>
+    <string name="kamyroll_subtitle_types">ASS - エピソードのプリセット スタイル \nVTT - カスタマイズ可能な字幕、配置 \nSRT - カスタマイズ可能な字幕、配置なし</string>
+    <string name="primary_sub_color_select">字幕の色</string>
+    <string name="secondary_sub_color_select">字幕のアウトライン色</string>
+    <string name="secondary_sub_outline_type_select">字幕のアウトラインタイプ</string>
+    <string name="sub_background_color_select">字幕の背景色</string>
+    <string name="sub_window_color_select">字幕ウィンドウの色</string>
+    <string name="sub_window_color_info">「字幕ウィンドウは、それらの左右の部分です。(背景はありません)」</string>
+    <string name="sub_color_info"><b>注:</b> 字幕フォーマットの変更は、ゾロやカミロールなどのソフト字幕ソースでのみ機能します!</string>
+    <string name="sub_font_select">字幕フォント</string>
+    <string name="subtitle_font_size">字幕サイズ</string>
+    <string name="kamyroll_language_button">カミロールの言語</string>
+    <string name="kamyroll_language_info"><b>注:</b> これにより、エピソードのタイトルと説明の言語が変更されます。 <b>新しいエピソードは、翻訳されたタイトルで最大 2 時間利用できず、エピソード リストにも表示されません。 リリース時に表示するには、英語に切り替えてください。</b> 変更を有効にするには、アプリを再起動する必要があります。 <b>一部の言語は動作しない可能性があります!</b></string>
+
+    <string name="auto">自動</string>
+    <string name="auto_play_next_episode">次のエピソードを自動再生</string>
+    <string name="auto_play_next_episode_info">1 時間後にプレイヤーとのやり取りがない場合、自動的に無効になります。</string>
+    <string name="auto_skip_fillers">フィラーを自動スキップ</string>
+    <string name="auto_skip_fillers_info">次のエピソードに進むときにフィラー エピソードをスキップします。</string>
+
+    <string name="update_progress">更新の進行状況</string>
+    <string name="ask_update_progress_anime">各アニメ「個別」で聞く</string>
+    <string name="ask_update_progress_manga">各マンガを「個別に」聞く"</string>
+    <string name="ask_update_progress_info_ep">オフにすると、エピソードの視聴時に進行状況が常に自動的に更新されます。</string>
+    <string name="ask_update_progress_info_chap">オフにすると、チャプターを読んだときに進行状況が常に自動的に更新されます。</string>
+    <string name="ask_update_progress_hentai">Hentai の進行状況の更新</string>
+    <string name="ask_update_progress_doujin">同人誌の更新状況</string>
+    <string name="very_bold">あなたの非常に大胆な sar</string>
+    <string name="watch_complete_percentage">ウォッチ更新率</string>
+    <string name="watch_complete_percentage_info">エピソードを見た後にアニリストの進行状況を更新するパーセンテージ。 \nこれは、次のエピソードのリンクをプリロードするタイミングの \% も設定します。</string>
+
+    <string name="behaviour">行動</string>
+    <string name="always_continue">出発した場所から常に続行</string>
+    <string name="pause_video_focus">フォーカスされていないときに一時停止</string>
+    <string name="gestures">ボリューム&amp; 明るさのジェスチャー</string>
+    <string name="double_tap">ダブルタップしてシーク</string>
+    <string name="double_tap_info">オフにすると、早送りと早送りが表示されます。 巻き戻しボタン</string>
+    <string name="seek_time">シーク時間</string>
+    <string name="seek_time_info">早送りと早送りの秒単位の時間。 巻き戻します。</string>
+    <string name="skip_time">時間をスキップ</string>
+    <string name="skip_time_info">0に設定すると、スキップ ボタンが非表示になります。</string>
+    <string name="show_cast_button">キャストボタンを表示</string>
+    <string name="show_cast_button_info">キャストするには\"Web Video Caster\"アプリが必要です。</string>
+    <string name="picture_in_picture">ピクチャー・イン・ピクチャー</string>
+    <string name="always_minimize">常に最小化</string>
+    <string name="always_minimize_info">PiPを有効にする必要があります。プレーヤーは Youtube プレーヤーのように動作しますが、より優れています。\nPiPボタンも非表示にします。</string>
+
+    <string name="app">アプリ</string>
+    <string name="immersive_mode">ステータスバーを隠す</string>
+    <string name="immersive_mode_info">完全に適用するにはアプリの再起動が必要です。</string>
+    <string name="home_layout_show">ホームでレイアウトを表示/非表示</string>
+    <string-array name="home_layouts">
+        <item>見続ける</item>
+        <item>お気に入りのアニメ</item>
+        <item>読み続ける</item>
+        <item>お気に入りのマンガ</item>
+        <item>おすすめ</item>
+    </string-array>
+
+    <string name="startUpTab">デフォルトの起動タブ</string>
+    <string name="small_view">トレンド番組の小さなビュー</string>
+    <string name="animations">アニメーション</string>
+    <string name="banner_animations">バナーアニメーション</string>
+    <string name="layout_animations">レイアウト アニメーション</string>
+    <string name="animation_speed">全体の速度</string>
+    <string name="empty_fav">何も気に入らないようですが、\nショーをここに留めておいてください。</string>
+    <string name="fav_anime">好きなアニメ</string>
+    <string name="fav_manga">好きなマンガ</string>
+    <string name="restart_app">アプリを再起動しますか？</string>
+    <string name="next">次</string>
+    <string name="previous">前</string>
+    <string name="current_page">現在のページ</string>
+    <string name="dubbed">吹き替え</string>
+    <string name="prefer_dub">吹き替えアニメを好む</string>
+    <string name="none">なし</string>
+    <string name="selected_dns">選択した DNS</string>
+    <string name="dns_info">変更、ISPがソースをブロックする場合</string>
+    <string name="keep_screen_on">画面をオンのままにする</string>
+    <string name="layout">レイアウト</string>
+    <string name="spaced_pages">間隔を空けたページ</string>
+    <string name="direction">向き</string>
+
+    <string name="general">全般</string>
+    <string name="show_system_bars">ステータスを表示 &amp; ナビゲーション バー</string>
+    <string name="auto_detect_webtoon">ウェブトゥーンの自動検出</string>
+    <string name="auto_detect_webtoon_info">マンガが日本以外の場合、リーダーはデフォルトで Webtoon リーダー設定になります。</string>
+    <string name="default_settings">デフォルトの設定</string>
+    <string name="horizontal_scroll_bar">水平スクロール バー</string>
+    <string name="dual_page">デュアルページ</string>
+    <string name="dual_page_info">1 ページに 2 つの画像が表示されます。画像のサイズが同じでない場合、見栄えが悪くなります</string>
+    <string name="true_colors">本当の色</string>
+    <string name="true_colors_info">(32ビットカラーモード) 画像のバンディングを減らします。パフォーマンスに影響する場合があります。</string>
+    <string name="image_rotation">画像の回転</string>
+    <string name="hide_page_numbers">ページ番号を隠す</string>
+    <string name="sort_by_title">タイトル順</string>
+    <string name="sort_by_last_updated">最終更新順</string>
+    <string name="sort_by_score">スコア順</string>
+    <string name="over_scroll">次/前の章へのオーバースクロール</string>
+    <string name="volume_buttons">音量ボタンでページを切り替える</string>
+    <string name="list_private">プライベート</string>
+    <string name="wrap_images">ラップ画像</string>
+    <string name="wrap_images_info">より大きなデバイスに最も役立ちます。画像が存在する場合は、画像間のスペースを削除します。</string>
+    <string name="reload">リロード</string>
+    <string name="share">共有</string>
+    <string name="skip">スキップ</string>
+    <string name="show_skip_time_stamp_button">スキップタイムスタンプボタンを表示</string>
+    <string name="always_load_time_stamps">タイムスタンプを常に読み込む</string>
+    <string name="timestamps">タイムスタンプ</string>
+    <string name="other">その他</string>
+    <string name="auto_skip_op_ed">OP/EDの自動スキップ</string>
+    <string name="requires_time_stamps_to_be_enabled">タイムスタンプを有効にする必要があります</string>
+    <string name="total_repeats">トータルリピート</string>
+    <string name="custom_lists">カスタムリスト</string>
+    <string name="donate_desc">Saikou\'s Creatorをサポートしたいですか?\n寄付を検討してください</string>
+    <string name="donate_goal">(目標の100ドルに到達しました!)</string>
+    <string name="filter">フィルター</string>
+    <string name="year">年</string>
+    <string name="apply">申し込み</string>
+    <string name="cancel">キャンセル</string>
+    <string name="this_season">今のシーズン</string>
+    <string name="next_season">次のシーズン</string>
+    <string name="previous_season">前のシーズン</string>
+    <string name="include_media_in_list">インクルードリスト</string>
+    <string name="release_calendar">カレンダー</string>
+
+</resources>
